@@ -1,6 +1,6 @@
 # Hi, I'm Kamlesh 👋
 
-🎓 Electronics & Computer Engineering student @ BAMU  
+🎓 Electronics & Computer Engineering student at Maharashtra Institute of Technology,Aurangabad @ Dr. Babasaheb Ambedkar Marathwada University (BAMU), India.
 🔧 Building smart systems with ESP32, RFID, and sensors  
 💡 Interested in Embedded Systems, IoT, and AI  
 📈 Currently building: Goat Weight Monitoring System using ESP32 + MongoDB  
