@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Kamlesh 👋
 
-<!--
-**Kamlesh-Rodge/Kamlesh-Rodge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Computer Engineering student @ BAMU  
+🔧 Building smart systems with ESP32, RFID, and sensors  
+💡 Interested in Embedded Systems, IoT, and AI  
+📈 Currently building: Goat Weight Monitoring System using ESP32 + MongoDB  
 
-Here are some ideas to get you started:
+**Currently Learning**
+- Data Structures & Algorithms (Leetcode)
+- React.js frontend development
+- MongoDB integration with Python
+- PCB design using Altium and Kicad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Tech stack
+- Languages: C, Embedded C, Python (basic), JavaScript (basic)
+- Boards: ESP32, Arduino (Nano, Uno, Mega)
+- Tools: Arduino IDE, MongoDB, VS Code
+
+> Let's build tech that helps people.
+
+📫 Reach me at: kamleshravikantrodge@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/kamlesh-rodge)
