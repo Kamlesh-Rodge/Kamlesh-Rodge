@@ -1,23 +1,38 @@
-# Hi, I'm Kamlesh 👋
+# Hi, I'm Kamlesh Rodge 👋
 
-🎓 Electronics & Computer Engineering student at Maharashtra Institute of Technology,Aurangabad @ Dr. Babasaheb Ambedkar Marathwada University (BAMU), MH, India.
+Embedded Systems & IoT Engineer focused on building real-world, deployable hardware products.
 
-🔧 Building smart systems with ESP32, RFID, and sensors  
-💡 Interested in Embedded Systems, IoT, and AI  
-📈 Currently building: Goat Weight Monitoring System using ESP32 + MongoDB  
+Currently working as an **Electronics & Embedded Systems Intern at AIIC (Anand Innovation and Incubation Council)**, contributing to product development, commercialization, and large-scale IoT automation projects.
 
-**Currently Learning**
-- Data Structures & Algorithms (Leetcode)
-- React.js frontend development
-- MongoDB integration with Python
-- PCB design using Altium and Kicad
+---
 
-🌐 Tech stack
-- Languages: C, Embedded C, Python (basic), JavaScript (basic)
-- Boards: ESP32, Arduino (Nano, Uno, Mega)
-- Tools: Arduino IDE, MongoDB, VS Code
+## 🔧 Technical Skills
+-  C / Arduino 
+- ESP32 / ESP8266 /Respberry pi 4/5
+- IoT system design & automation
+- PCB design, testing & validation
+- Sensors, actuators, and hardware integration
 
-> Let's build tech that helps people.
+---
 
-📫 Reach me at: kamleshravikantrodge@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/kamlesh-rodge)
+## 🚀 Current Work
+- Designing and commercializing microcontroller-based training kits for students
+- Working on a large-scale IoT automation project (Smart Goat Farm – ~500 goats)
+- Involved in the complete product lifecycle: design → testing → deployment
+
+---
+
+## 📌 Key Projects
+- **Smart Goat Farm Automation**  
+  IoT-based monitoring and automation system using ESP32, sensors, and dashboards
+
+- **Microcontroller Training Kits**  
+  Arduino-based learning kits designed for hands-on education and scalability
+
+- **Hardware Prototyping & PCB Design**  
+  Multiple PCB iterations with real-world testing and optimization
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/kamlesh-rodge
